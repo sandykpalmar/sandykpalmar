@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sandykpalmar
 - 👀 I’m interested in ethical hacking and cybersecurity
 - 🌱 I’m currently learning ethical hacking and cybersecurity
-- 💞️ I’m looking to collaborate on OWASP Tegucigalpa Chapter
+- 💞️ I’m looking to collaborate on @www-chapter-tegucigalpa
 - 📫 How to reach me my networks on Twitter, Telegram and Linkedin @SandyKPalmaR
 
 <!---
